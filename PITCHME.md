@@ -160,7 +160,7 @@ Note:
 ---?image=/assets/images/slides2/Slide7.JPG
 @title[EDK II HelloWorld  App  Lab ]
 <p align="right"><span class="gold" ><b>EDK II HelloWorld  App  Lab  </b></span></p>
-<span style="font-size:0.8em" >First Setup for Building EDK II for OVMF, See <a href="https://gitpitch.com/Laurie0131/Platform_Build_LAB/master#/2">Lab Setup </a></span>
+<span style="font-size:0.8em" >First Setup for Building EDK II for OVMF, See <a href="https://gitpitch.com/tianocore-training/Platform_Build_LAB/master#/2">Lab Setup </a></span>
 
 Note:
 

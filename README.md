@@ -30,7 +30,7 @@
 -->
 
 # Writing_UEFI_App_Lab
-How to Write a UEFI Application with EDK II
+How to Write a UEFI Application with EDK II - Linux
 
-To see the Slides goto https://gitpitch.com/Laurie0131/Writing_UEFI_App_Lab/master#/
+To see the Slides goto https://gitpitch.com/tianocore-training/Writing_UEFI_App_Lab/master#/
 
